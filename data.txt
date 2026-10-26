@@ -1,2 +1,2 @@
 rel 26.X
-beta 26.1X https://github.com/Borion-Updated/Releases/releases/download/v26.1X-beta4/Borion.dll
+beta 26.5X https://github.com/Borion-Updated/Releases/releases/download/v26.5X-beta1/Borion.dll
